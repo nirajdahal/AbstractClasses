@@ -1,0 +1,6 @@
+-Abstract Class
+
+-It is the class that cannot be instantiated but can be derived. 
+-It is useful in the case where instantitaing parent class doesnot makes sense or shouldnot be instantiated.
+
+Pro Tip : Abstract classes are great starting points. Just dont forget to follow "is a" rule.
